@@ -1,7 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 .env
 # dependencies
-node_modules
+node_modules 
+#이름 으로 다가지고 오는 것 
 /.pnp
 .pnp.js
 
